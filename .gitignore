@@ -1,0 +1,10 @@
+.env
+.venv
+venv
+data
+wandb
+results
+unsloth_compiled_cache/
+_unsloth_temporary_saved_buffers/
+llama.cpp
+__pycache__
